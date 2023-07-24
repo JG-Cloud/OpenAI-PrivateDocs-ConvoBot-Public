@@ -1,3 +1,16 @@
+**OPEN AI - API Data privacy:**
+|
+`Starting on March 1, 2023, we are making two changes to our data usage and retention policies:
+OpenAI will not use data submitted by customers via our API to train or improve our models, unless you explicitly decide to share your data with us for this purpose. You can opt-in to share data.
+Any data sent through the API will be retained for abuse and misuse monitoring purposes for a maximum of 30 days, after which it will be deleted (unless otherwise required by law).`|
+
+**NOTE:** This repo was cloned from my private repo. Unfortuantely, I had sensitive info which meant I couldn't mirror the commits to this repo or make the private repo public. Happy to show the commits in my private repo on request. I managed to remove the commits with sensitive info and rearrange the git history, but unfortunately they persisted in GITHUB. Boo
+
+- Remaining tasks to complete on this project:
+    * Create option on web frontend to choose the directory on your local machine to upload files from
+    * Add option to upload single files
+    * Finish creating CI/CD pipeline for Docker images to be created following update to specific branch
+
 ## LLM / Embeddings
 Using OpenAI LLM: OpenAI Davinci (GPT 3.5)
 Embeddings: OpenAI Ada2
