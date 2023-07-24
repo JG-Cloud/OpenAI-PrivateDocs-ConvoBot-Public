@@ -43,3 +43,6 @@ TBC - Chunks 1000, overlap 200
 ## Jupyter notebook
 Included a ipynb for quick testing with RetrivalQA API for single QA on docs.
 
+
+## requirements.txt
+Essential py modules required for Langchain in Python VENV and Docker Image.
